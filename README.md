@@ -1,6 +1,6 @@
 👋 Hi, I’m @SaranyaKrishnasami
 
-👀 I’m interested in everything interesting and challenging. Currently focused on AI, ML, and NLP.
+👀 I’m like anything interesting and challenging. Currently focused on AI, ML, and NLP.
 
 🌱 I’m currently learning PySpark and Databricks.
 
